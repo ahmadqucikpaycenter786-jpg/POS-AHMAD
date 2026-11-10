@@ -1,0 +1,6 @@
+{
+  "name": "ThermalPOS Print Hub - Mobile Thermal Receipt Printer",
+  "description": "Professional Android thermal printer app supporting Wi-Fi & Bluetooth, 58mm/80mm widths, image cropping, B&W dither printing, OCR text extraction, QR/Barcode tools, and custom receipt generator with print history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
